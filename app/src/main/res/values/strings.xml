@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string-array name="opciones">
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Politics</item>
+        <item>Films</item>
+    </string-array>
+
+    <string-array name="valores">
+        <item>sport/sport</item>
+        <item>technology/technology</item>
+        <item>politics/politics</item>
+        <item>film/film</item>
+    </string-array>
+</resources>
